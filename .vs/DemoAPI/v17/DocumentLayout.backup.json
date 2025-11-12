@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\DemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:46:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DemoAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "DemoAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:46:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DemoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Program.cs",
+              "RelativeToolTip": "DemoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:46:45.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
