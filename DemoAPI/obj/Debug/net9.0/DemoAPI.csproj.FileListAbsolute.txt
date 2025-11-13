@@ -31,3 +31,4 @@ C:\Users\Working\source\repos\DemoAPI\DemoAPI\obj\Debug\net9.0\refint\DemoAPI.dl
 C:\Users\Working\source\repos\DemoAPI\DemoAPI\obj\Debug\net9.0\DemoAPI.pdb
 C:\Users\Working\source\repos\DemoAPI\DemoAPI\obj\Debug\net9.0\DemoAPI.genruntimeconfig.cache
 C:\Users\Working\source\repos\DemoAPI\DemoAPI\obj\Debug\net9.0\ref\DemoAPI.dll
+C:\Users\Working\source\repos\DemoAPI\DemoAPI\obj\Debug\net9.0\DemoAPI.sourcelink.json

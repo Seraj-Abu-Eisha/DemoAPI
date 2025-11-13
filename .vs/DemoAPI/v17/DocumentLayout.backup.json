@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\DemoAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\demoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\demoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|c:\\users\\working\\source\\repos\\demoapi\\demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EA3D138-28C8-4B48-9D2C-5A020D678089}|DemoAPI\\DemoAPI.csproj|solutionrelative:demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DemoAPI.http",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\DemoAPI.http",
+              "RelativeDocumentMoniker": "DemoAPI\\DemoAPI.http",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\DemoAPI.http",
+              "RelativeToolTip": "DemoAPI\\DemoAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-12T08:05:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "DemoAPI\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "DemoAPI\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:55:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "DemoAPI\\Controllers\\WeatherForecastController.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "DemoAPI\\WeatherForecast.cs",
@@ -52,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Program.cs",
               "RelativeDocumentMoniker": "DemoAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\DemoAPI\\DemoAPI\\Program.cs",
               "RelativeToolTip": "DemoAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T20:46:45.727Z",
               "EditorCaption": ""
